@@ -1,0 +1,5 @@
+Q1: Why might we consider using git?
+
+Answer: To keep track of changes to files and preserve backups of files at 
+different states.
+
