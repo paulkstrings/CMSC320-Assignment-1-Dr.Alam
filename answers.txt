@@ -3,3 +3,9 @@ Q1: Why might we consider using git?
 Answer: To keep track of changes to files and preserve backups of files at 
 different states.
 
+Q2: What field could data science be applied to? Give an example and how 
+it might help.
+
+Answer: Data science could be applied to the field of politics by letting 
+political parties and candidates analyze poll data. This would let them 
+make decisions about their policies.
