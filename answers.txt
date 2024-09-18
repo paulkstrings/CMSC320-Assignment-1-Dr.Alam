@@ -9,3 +9,9 @@ it might help.
 Answer: Data science could be applied to the field of politics by letting 
 political parties and candidates analyze poll data. This would let them 
 make decisions about their policies.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the entire history of the repository, while 
+rebasing creates a linear history by moving your feature branch onto the 
+tip of main.
